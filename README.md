@@ -48,7 +48,7 @@ The following values were calculated by running `train_models.py` with the fixed
 ## Application
 The Streamlit app accepts `test_data.csv`, lets the user select one of the five saved models, and displays the six evaluation metrics, a confusion matrix and a classification report. The saved model is loaded for inference; no training takes place on the uploaded test data.
 
-**Live Streamlit App:** `[PASTE YOUR DEPLOYED STREAMLIT URL HERE]`
+**Live Streamlit App:** https://aiml-ml-assignment-2-hxf5dgdmynpfauihl2vyaz.streamlit.app/
 
 ## Reproducibility
 1. Install dependencies: `pip install -r requirements.txt`
