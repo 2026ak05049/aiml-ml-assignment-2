@@ -14,7 +14,7 @@ The objective is to implement and compare five supervised classification algorit
 The data is split into 80% training and 20% testing using stratified sampling with `random_state=42`. This produced 455 training rows and 114 test rows. The supplied `test_data.csv` contains all 30 input features and the actual target column.
 
 ## c. GitHub Repository Link
-`[https://github.com/2026ak05049/aiml-ml-assignment-2]`
+**GitHub Repository:** https://github.com/2026ak05049/aiml-ml-assignment-2
 
 ## d. Models Used
 The following five algorithms are implemented:
