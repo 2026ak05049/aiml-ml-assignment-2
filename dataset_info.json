@@ -1,0 +1,12 @@
+{
+  "dataset_name": "Breast Cancer Wisconsin (Diagnostic)",
+  "source": "UCI Machine Learning Repository; accessed through scikit-learn",
+  "instances": 569,
+  "features": 30,
+  "target_names": [
+    "malignant",
+    "benign"
+  ],
+  "test_size": 0.2,
+  "random_state": 42
+}
